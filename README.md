@@ -2,15 +2,15 @@
 Repository to design and build a storage solution to replace the CSUN uDrive. We are using ProxMox and Ceph to cluster and manage the filesystem.
 
 Team Memebers :<br>
-  Abdul Rizwan
-    https://github.com/Abdul-GR
-  Andrew Huebert
-    https://github.com/andrewHuebert
-  Eric Meija
-    https://github.com/emejia52
-  Misak Tivriktsyan
-    https://github.com/misakmt
-  Nury Karanurov
-    https://github.com/Nury452
-  Petra Antyanti Larisa Anggraeni
+  Abdul Rizwan <br>
+    https://github.com/Abdul-GR <br>
+  Andrew Huebert <br>
+    https://github.com/andrewHuebert <br>
+  Eric Meija <br>
+    https://github.com/emejia52 <br>
+  Misak Tivriktsyan <br>
+    https://github.com/misakmt <br>
+  Nury Karanurov <br>
+    https://github.com/Nury452 <br>
+  Petra Antyanti Larisa Anggraeni <br>
     https://github.com/petralarisa
